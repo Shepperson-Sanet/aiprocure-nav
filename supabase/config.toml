@@ -1,0 +1,23 @@
+
+project_id = "iqvfzpijsksiwvdqpbvl"
+
+[functions.analyze-vendor-risk]
+verify_jwt = false
+
+[functions.generate-rfx-content]
+verify_jwt = false
+
+[functions.vendor-discovery]
+verify_jwt = false
+
+[functions.audit-analysis]
+verify_jwt = false
+
+[functions.whisper-transcription]
+verify_jwt = false
+
+[functions.babatunde-chat]
+verify_jwt = false
+
+[functions.openai-tts]
+verify_jwt = false
